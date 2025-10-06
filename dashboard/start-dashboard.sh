@@ -51,7 +51,7 @@ fi
 
 echo "🚀 Starting the dashboard..."
 echo ""
-echo "📊 Dashboard will open at: http://localhost:3501"
+echo "📊 Dashboard will open at: http://localhost:3000"
 echo "🔍 Features:"
 echo "   • Interactive overview of all critical issues"
 echo "   • Detailed markdown analysis documents"

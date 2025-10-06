@@ -52,7 +52,7 @@ The dashboard provides:
    ```
 
 4. **Open your browser:**
-   Navigate to `http://localhost:3501`
+   Navigate to `http://localhost:3000`
 
 ### Build for Production
 
