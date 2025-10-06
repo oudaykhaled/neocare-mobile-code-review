@@ -54,6 +54,10 @@ function App() {
               />
             } 
           />
+          <Route 
+            path="*" 
+            element={<Dashboard documents={documents} onDocumentSelect={handleDocumentSelect} />} 
+          />
         </Routes>
       </main>
     </div>
