@@ -1,6 +1,6 @@
 [build]
   publish = "dashboard/build"
-  command = "cd dashboard && npm install && npm run build"
+  command = "cd dashboard && npm ci && npm run build"
   base = "/"
 
 [[redirects]]
@@ -10,3 +10,4 @@
 
 [build.environment]
   NODE_VERSION = "18"
+  CI = "false"
