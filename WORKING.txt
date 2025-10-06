@@ -1,0 +1,9 @@
+NETLIFY TEST - October 6, 2024 - 15:55
+
+If you can see this file, the repository connection is working!
+
+Repository: neocare-mobile-code-review
+Branch: main
+Commit: Latest push with static deployment
+
+This is a plain text file to test if Netlify can serve ANY content from this repository.
