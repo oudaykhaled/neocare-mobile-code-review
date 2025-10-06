@@ -24,7 +24,7 @@ API keys, credentials, and sensitive configuration are **hardcoded and exposed**
 #### Location: `GoogleService-Info.plist`
 ```xml
 <key>API_KEY</key>
-<string>AIzaSyCj2bSK2U0pccNAv5Q0QZy0CYEdUGE2FfM</string>
+<string>AIza***[REDACTED_API_KEY]***</string>
 
 <key>CLIENT_ID</key>
 <string>113904800649-rm71thlh5407ju7in0s0gv105h8ehvpq.apps.googleusercontent.com</string>
@@ -42,7 +42,7 @@ API keys, credentials, and sensitive configuration are **hardcoded and exposed**
 ```json
 {
   "api_key": [{
-    "current_key": "AIzaSyCj2bSK2U0pccNAv5Q0QZy0CYEdUGE2FfM"
+    "current_key": "AIza***[REDACTED_API_KEY]***"
   }],
   "client": [{
     "client_id": "113904800649-vre1j07cjb7sf44tqhicbs0ccrhl7f6b.apps.googleusercontent.com",

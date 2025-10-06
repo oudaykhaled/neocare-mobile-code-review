@@ -121,10 +121,10 @@ Each critical issue has a dedicated document with detailed analysis, code exampl
 ```typescript
 // ❌ EXPOSED IN REPOSITORY - GoogleService-Info.plist
 <key>API_KEY</key>
-<string>AIzaSyCj2bSK2U0pccNAv5Q0QZy0CYEdUGE2FfM</string>  // EXPOSED!
+<string>AIza***[REDACTED_API_KEY]***</string>  // EXPOSED!
 
 // ❌ EXPOSED IN REPOSITORY - google-services.json
-"api_key": [{ "current_key": "AIzaSyCj2bSK2U0pccNAv5Q0QZy0CYEdUGE2FfM" }]  // EXPOSED!
+"api_key": [{ "current_key": "AIza***[REDACTED_API_KEY]***" }]  // EXPOSED!
 
 // ❌ Multiple hardcoded API URLs
 // src/config.ts
